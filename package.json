@@ -2,6 +2,10 @@
   "name": "step-by-step-guide",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14.16.0",
+    "npm": "6.14.11"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -17,8 +21,8 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
-    "start": "react-scripts start && nf start",
-    "build": "react-scripts build && bower install && grunt build",
+    "start": "react-scripts",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
