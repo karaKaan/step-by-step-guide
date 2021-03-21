@@ -20,6 +20,6 @@ It shows one by one how the finish the Goodie.
 4. Open your Code Editor using `code .` in your Terminal.
 5. Go to src/server and start the integrated Terminal.
 6. Run the command `node express.js`
-7. In a new Terminal run the command `npm start`
+7. In a new Terminal, at the root, run the command `npm start`
 
 Hopefully this could help
