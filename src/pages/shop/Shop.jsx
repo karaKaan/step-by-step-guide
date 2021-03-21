@@ -18,6 +18,7 @@ export default function Shop() {
     
     return (
         <div className="shop-wrapper">
+            test
             {products ? (
                 products.map(product => 
                     <Link to={`/product/${product.id}`}>
