@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "title": "Sweet and Juicy Raspberry Macarons",
+        "price": "9,99",
+        "currency": "€",
+        "imgUrl": "/images/macarons.jpg",
+        "guides" : [
+            {
+                "step": "Step 1",
+                "imgUrl":"/images/flour-mix.jpg",
+                "ingredients": ["210g Powdered Sugar","95g Almond Flour (finely grounded)", "half Teaspoon of Salt"],
+                "direction": "Make the macarons: In the bowl of a food processor, combine the powdered sugar, almond flour, and ½ teaspoon of salt, and process on low speed, until extra fine. Sift the almond flour mixture through a fine-mesh sieve into a large bowl."
+            },
+            {
+                "step": "Step 2",
+                "imgUrl":"/images/egg-mixture.jpg",
+                "ingredients": ["3 Egg Whites","Half Teaspoon Salt", "Food Coloring"],
+                "direction": "In a separate large bowl, beat the egg whites and the remaining ½ teaspoon of salt with an electric hand mixer until soft peaks form. Gradually add the granulated sugar until fully incorporated. Continue to beat until stiff peaks form (you should be able to turn the bowl upside down without anything falling out). Add the vanilla and beat until incorporated. Add the food coloring and beat until just combined."
+            },
+            {
+                "step": "Step 3",
+                "imgUrl":"/images/almond-flour.jpg",
+                "ingredients": ["1/3 Sifted Almond Flour","Egg White Mixture"],
+                "direction": "Add about ⅓ of the sifted almond flour mixture at a time to the beaten egg whites and use a spatula to gently fold until combined. After the last addition of almond flour, continue to fold slowly until the batter falls into ribbons and you can make a figure 8 while holding the spatula up. Transfer the macaron batter into a piping bag fitted with a round tip."
+            },
+            {
+                "step": "Step 4",
+                "imgUrl":"/images/buttercream.jpg",
+                "ingredients": ["230g unsalted Butter","360g powderede Sugar","1 Teaspoon Vanilla Extract", "3 Tablespoons Heavy Cream"],
+                "direction": "Make the buttercream: In a large bowl, add the butter and beat with a mixer for 1 minute until light and fluffy. Sift in the powdered sugar and beat until fully incorporated. Add the vanilla and beat to combine. Add the cream, 1 tablespoon at a time, and beat to combine, until desired consistency is reached."
+            }
+    ]
+    },
+    {
+        "id": 2,
+        "title": "A Fruity Cereal Bowl mix",
+        "price": "12,99",
+        "currency": "€",
+        "imgUrl": "/images/cereal.jpg",
+        "guides" : [
+            {
+                "step": "Adding Cereal to the Bowl",
+                "imgUrl":"/images/cereal-bowl.jpg",
+                "ingredients": ["A Bowl","250g of Cereal"],
+                "direction": "Take the Bowl you most like and add the 250g Cereal."
+            },
+            {
+                "step": "Milk with Addings ",
+                "imgUrl":"/images/milk-stuff.jpg",
+                "ingredients": ["Milk","Fruits", "Nuts"],
+                "direction": "Add into your Bowl of Cereal your Nuts and Fruits. After adding it pour in the Milk."
+            },
+            {
+                "step": "Decoration",
+                "imgUrl":"/images/honey.jpg",
+                "ingredients": ["Chocolate","Honey", "Rasper"],
+                "direction": "Rasp the Chocolate on Top of your Cereal Bowl mixture and Glaze it with Honey."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Delight Chocolate Smoothie",
+        "price": "7,99",
+        "currency": "€",
+        "imgUrl": "/images/smoothie.jpg",
+        "guides" : [
+            {
+                "step": "Step 1",
+                "imgUrl":"/images/smoothie.jpg",
+                "ingredients": ["700ml Fancy Glass","500ml Milk", "80g Chocolate Powder"],
+                "direction": "Take the 700ml Glass and it has to be a Fancy Glass. The Fancy Glass is IMPORTANT. Pour in the 500ml Milk and afterwards the 80g Chocolate Powder. Stirr it till completly mixed."
+            },
+            {
+                "step": "Step 2",
+                "imgUrl":"/images/choco-rasp.jpg",
+                "ingredients": ["Fancy Chocolate Brick","Rasper"],
+                "direction": "Take your Rasper, if not available then chop the Chocolate in fine peaces. Start rasping the Chocolate on your Smoothie. If you chopped the Chocolate then sprinklen them on top of your Smoothie. Repeat this process as much as you like."
+            }
+    ]
+    },
+    {
+        "id": 4,
+        "title": "Sweet and Fluffy Berliner",
+        "price": "5,99",
+        "currency": "€",
+        "imgUrl": "/images/berliner.jpg",
+        "guides" : [
+            {
+                "step": "First Flour Mixture",
+                "imgUrl":"/images/flour-well.jpg",
+                "ingredients": ["380g Flour","5 Tablespoon Milk", "1 pinch of Sugar", "1 Yeast"],
+                "direction": "Put the flour in a bowl and make a well. Mix 5 tablespoons of warm milk, 1 pinch of sugar and crumbled yeast and pour into the well. Sprinkle a little flour on top and let rise, covered, in a warm place for about 10 minutes."
+            },
+            {
+                "step": "Mixing other Components in the Flour Mixture",
+                "imgUrl":"/images/mixed-dough.jpg",
+                "ingredients": ["3 Egg yolk","40g Butter", "1 pinch of Salt", "100ml Milk", "30g Sugar"],
+                "direction": "Add egg yolk, butter, salt, remaining milk and sugar to the pre-dough. Knead everything into a smooth dough. Cover and let rise in a warm place for about 1 hour until the dough has doubled in volume."
+            },
+            {
+                "step": "Knead the Dough",
+                "imgUrl":"/images/dough-kneeting.jpg",
+                "ingredients": ["a bit of Flour","Round cookie cutter"],
+                "direction": "Knead dough with hands and roll out on a little flour about ½ cm thick. With a round cookie cutter (Ø about 7 cm) cut out taler. Cover and let rise in a warm place for about 20 minutes."
+            },
+            {
+                "step": "Frying the Berliner",
+                "imgUrl":"/images/pot.jpg",
+                "ingredients": ["1 Pot", "Veggie Oil"],
+                "direction": "Heat the fat in a pot to about 170 degrees. The temperature is important when small bubbles rise from a wooden spoon dipped on the bottom of the pot. Put the dough in portions, put the lid on the pot and fry the dough for about 2 minutes. Turn, fry for another minute or so."
+            },
+            {
+                "step": "Lifting up the fryed Berliner",
+                "imgUrl":"/images/cooling-rack.jpg",
+                "ingredients": ["1 slotted Spoon", "Cooling Rack"],
+                "direction": "Lift doughnuts out of fat with a slotted spoon and let cool on a cooling rack."
+            },
+            {
+                "step": "Fill up the Berliner",
+                "imgUrl":"/images/piping.jpg",
+                "ingredients": ["400g Rosehip pulp"],
+                "direction": "Place rose hip pulp in a piping bag with a small long nozzle (Ø 0.5 cm). Fill doughnuts. Dust with powdered sugar."
+            }
+    ]
+    },
+    {
+        "id": 5,
+        "title": "Burgers for the Awesomeness",
+        "price": "14,99",
+        "currency": "€",
+        "imgUrl": "/images/burger.jpg",
+        "guides" : [
+            {
+                "step": "Step 1",
+                "imgUrl":"/images/ground-beef.jpg",
+                "ingredients": ["450g ground Beef (7% Fat)","1 Large Egg", "64g minced Onion", "32g fine Breadcrumbs", "1 Tablespoon Worcestershire", "1 or 2 cloves garlic, peeled and minced", "Half Teaspoon Salt", "A Fourth Teaspoon Pepper"],
+                "direction": "In a bowl, mix ground beef, egg, onion, bread crumbs, Worcestershire, garlic, 1/2 teaspoon salt, and 1/4 teaspoon pepper until well blended. Divide mixture into four equal portions and shape each into a patty about 4 inches wide."
+            },
+            {
+                "step": "Step 2",
+                "imgUrl":"/images/grilled-burgers.jpg",
+                "ingredients": ["BBQ Grill or Gas Grill"],
+                "direction": "Lay burgers on an oiled barbecue grill over a solid bed of hot coals or high heat on a gas grill (you can hold your hand at grill level only 2 to 3 seconds); close lid on gas grill. Cook burgers, turning once, until browned on both sides and no longer pink inside (cut to test), 7 to 8 minutes total. Remove from grill."
+            },
+            {
+                "step": "Step 3",
+                "imgUrl":"/images/grill.jpg",
+                "ingredients": ["Buns","BBQ Grill or Gas Grill"],
+                "direction": "Lay buns, cut side down, on grill and cook until lightly toasted, 30 seconds to 1 minute."
+            },
+            {
+                "step": "Step 4",
+                "imgUrl":"/images/burger-placing.jpg",
+                "ingredients": ["Mayonnaise", "Ketchup", "Lettuce", "Tomato", "Onion"],
+                "direction": "Spread mayonnaise and ketchup on bun bottoms. Add lettuce, tomato, burger, onion, and salt and pepper to taste. Set bun tops in place."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Veggie + Steak - Treat Yourself",
+        "price": "17,99",
+        "currency": "€",
+        "imgUrl": "/images/steak.jpg",
+        "guides" : [
+            {
+                "step": "Fry the Veggie",
+                "imgUrl":"/images/veggie-frying.jpg",
+                "ingredients": ["1 sliced Tomato", "1 finely sliced Onion", "2 minced Garlic", "Frying Pan", "Oil", "Rosemary", "Salt"],
+                "direction": "Add the oil in the Pan and heat it. Add the minced Garlic with a bit Rosemary and after the Garlic is getting brownish add the Onion. When the caramelization starts add the Tomato. Spice it up with a pinch of Salt."
+            },
+            {
+                "step": "Prepareing the Steak",
+                "imgUrl":"/images/preparing-steak.jpg",
+                "ingredients": ["Steak", "Salt", "Pepper"],
+                "direction": "Take your Steak and on each Site(front and back) add Salt and Pepper. If the Steak is a wider than 2cm, then Salt and Pepper the sides."
+            },
+            {
+                "step": "Fry the Steak",
+                "imgUrl":"/images/steak-frying.jpg",
+                "ingredients": ["prepared Steak", "2 crushed Garlic", "2 to 3 Stems Rosemary", "Butter", "1 cast iron Pan", "Oil"],
+                "direction": "Preheat the Pan with a little bit of oil. The Pan and the oil has to be really hot. Add your prepared Steak and after 1 turn each side add the crushed Garlic and the Rosemary with 2 Tablespoon of Butter. Take a tablespoon and lift the Pan in an angle. Through the Butter mixture on top of the Steak."
+            },
+            {
+                "step": "Placings",
+                "imgUrl":"/images/placing-steak.jpg",
+                "ingredients": ["2 plates", "2 Fork", "2 Steak Knives"],
+                "direction": "Place the fryed veggies on one side and the Steak to the other side. Dont Cut the Steak until 2 to 5 minutes passed. The Rest Time depends on the thickness of the Steak."
+            }
+        ]
+    }
+]

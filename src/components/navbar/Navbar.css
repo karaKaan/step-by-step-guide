@@ -1,0 +1,27 @@
+nav {
+  background: var(--primary-100);
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.nav-logo {
+  font-family: Redressed, Roboto, "Segoe UI", Tahoma, Geneva, Verdana,
+    sans-serif;
+  font-size: 1.4rem;
+  padding-inline: 1.5em;
+  padding-block: 1em;
+}
+.nav-link {
+  margin-inline: auto;
+  margin-right: 50vw;
+  align-self: center;
+  padding-block: 1.5em;
+  padding-inline: 1.5em;
+}
+
+.nav-link:hover {
+  font-weight: 700;
+}

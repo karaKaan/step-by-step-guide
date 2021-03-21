@@ -1,0 +1,33 @@
+.card-container {
+  margin: 3.5em 3.5em;
+  border: 2px solid var(--primary-700);
+  border-radius: 0 0 8px 8px;
+}
+
+.card-container:hover {
+  cursor: pointer;
+  box-shadow: -10px 10px 20px var(--secondary-100);
+  margin-top: 3.4em;
+  margin-left: 4em;
+
+  transition: ease-in-out 150ms;
+}
+
+.card-content {
+  display: flex;
+  flex-flow: wrap column;
+}
+
+.card-content h3 {
+  width: 25ch;
+  margin-block: 0.5em;
+  align-self: center;
+}
+
+.card-content p {
+  margin: 0.5em 0.5em 0.5em auto;
+}
+
+.card-content hr {
+  width: 15em;
+}

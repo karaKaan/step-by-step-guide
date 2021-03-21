@@ -1,0 +1,22 @@
+.home-wrapper{
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    margin-top: 10em;
+}
+
+.home-wrapper h2,
+.home-wrapper h1{
+    color: var(--primary-900);
+}
+
+.home-wrapper h2{
+    font-size: 2.5rem;
+    margin-bottom: 1em;
+}
+
+.home-wrapper h1 {
+    font-size: 5rem;
+    font-family: Redressed, Roboto, "Segoe UI", Tahoma, Geneva, Verdana,
+    sans-serif;
+}

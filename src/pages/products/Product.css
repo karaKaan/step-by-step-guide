@@ -1,0 +1,100 @@
+.product-wrapper {
+  display: flex;
+}
+
+.product-wrapper img {
+  border: 3px solid var(--primary-700);
+  border-radius: 8px;
+}
+
+.product-content {
+  margin-inline: auto;
+}
+
+.product-content .price {
+  margin-right: auto;
+}
+
+.product-content .description {
+  max-width: 60ch;
+  opacity: 80%;
+}
+
+.product-content .price,
+.product-content .description,
+.product-content h1 {
+  color: var(--primary-900);
+}
+
+.guide-wrapper {
+  display: flex;
+}
+
+.checklist {
+  flex: 0 0 15%;
+  text-align: center;
+  background: var(--primary-400);
+  height: 100vh;
+}
+
+.checklist h3 {
+  margin-top: 3em;
+  color: var(--primary-900);
+}
+
+.guide-img-wrapper img{
+    border: 4px solid var(--primary-700);
+    border-radius: 8px;
+}
+
+.guide-wrapper div img,
+.method {
+  display: flex;
+  flex-flow: column wrap;
+  margin: 1em;
+}
+
+.ingredients h2,
+.ingredients li,
+.direction h2,
+.direction p {
+  color: var(--primary-900);
+}
+
+.ingredients li,
+.direction p {
+  max-width: 50ch;
+}
+
+.ingredients li {
+  margin-top: 0.5em;
+  margin-left: 1em;
+  list-style: circle;
+}
+
+.ingredients h2 {
+  margin-bottom: 1em;
+}
+
+.direction {
+  margin-top: 3em;
+}
+
+.btn-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 2em;
+}
+
+.checklist .selected {
+  font-size: 1.8rem;
+  color: var(--neutral-white);
+}
+
+.deselected {
+  opacity: 60%;
+}
+
+#finished {
+  text-decoration: line-through;
+}

@@ -1,0 +1,21 @@
+.success-state{
+    display: flex;
+    flex-flow: wrap column;
+    align-content: center;
+}
+
+.success-state h1 span{
+    font-family: Redressed, Roboto, "Segoe UI", Tahoma, Geneva, Verdana,
+    sans-serif;
+    font-size: 3.5rem;
+}
+
+.success-state h1{
+    color: var(--primary-900);
+}
+
+.emoji-success{
+    font-size: 10rem;
+    margin-left: 1em;
+    margin-bottom: .1em;
+}
