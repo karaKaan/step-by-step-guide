@@ -6,6 +6,7 @@ import SuccessPage from '../successPage/SuccessPage'
 
 import "./Product.css"
 export default function Products() {
+    const port = process.env.PORT || 5000
     const [product, setProduct] = useState()
     const [isGuide, setIsGuide] = useState(false)
     const [nextCounter, setNextCounter] = useState(0)
@@ -17,7 +18,7 @@ export default function Products() {
         productID = productID.split("/")
         productID = productID[productID.length - 1]
 
-        const res = await fetch(`http://localhost:5000/api/products/${productID}`)
+        const res = await fetch(`http://localhost:${port}/api/products/${productID}`)
         const productData = await res.json()
         
         setProduct(productData[0])

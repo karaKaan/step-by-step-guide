@@ -5,10 +5,12 @@ import "./Shop.css"
 import Card from '../../components/card/Card'
 
 export default function Shop() {
+    const port = process.env.PORT || 5000
+
     const [products, setProducts] = useState()
 
     useEffect( async() =>  {
-        const res = await fetch('http://localhost:5000/api/products')
+        const res = await fetch(`http://localhost:${port}/api/products`)
         const productData = await res.json()
         
         setProducts(productData)
