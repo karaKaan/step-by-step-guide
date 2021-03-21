@@ -1,5 +1,4 @@
 {
-  "homepage": "http://karaKaan.github.io/step-by-step-guide",
   "name": "step-by-step-guide",
   "version": "0.1.0",
   "private": true,
@@ -17,10 +16,8 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts start && nf start",
+    "build": "react-scripts build && bower install && grunt build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
