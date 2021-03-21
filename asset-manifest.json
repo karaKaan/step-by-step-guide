@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/step-by-step-guide/static/css/main.0c43d593.chunk.css",
+    "main.js": "/step-by-step-guide/static/js/main.e0c5e9de.chunk.js",
+    "main.js.map": "/step-by-step-guide/static/js/main.e0c5e9de.chunk.js.map",
+    "runtime-main.js": "/step-by-step-guide/static/js/runtime-main.d5d4f4b7.js",
+    "runtime-main.js.map": "/step-by-step-guide/static/js/runtime-main.d5d4f4b7.js.map",
+    "static/js/2.bf15942b.chunk.js": "/step-by-step-guide/static/js/2.bf15942b.chunk.js",
+    "static/js/2.bf15942b.chunk.js.map": "/step-by-step-guide/static/js/2.bf15942b.chunk.js.map",
+    "index.html": "/step-by-step-guide/index.html",
+    "static/css/main.0c43d593.chunk.css.map": "/step-by-step-guide/static/css/main.0c43d593.chunk.css.map",
+    "static/js/2.bf15942b.chunk.js.LICENSE.txt": "/step-by-step-guide/static/js/2.bf15942b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5d4f4b7.js",
+    "static/js/2.bf15942b.chunk.js",
+    "static/css/main.0c43d593.chunk.css",
+    "static/js/main.e0c5e9de.chunk.js"
+  ]
+}
