@@ -8,7 +8,7 @@ export default function Shop() {
     const [products, setProducts] = useState()
 
     useEffect( async() =>  {
-        const res = await fetch('http://localhost:5000/api/products')
+        const res = await fetch('https://step-by-step-guide.herokuapp.com/api/products')
         const productData = await res.json()
         
         setProducts(productData)
