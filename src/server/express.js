@@ -7,11 +7,11 @@ const app = express()
 
 app.use(cors())
 
-app.get('/api/products', (req, res) => {
+app.get('https://step-by-step-guide.herokuapp.com/api/products', (req, res) => {
     res.json(products)
 })
 
-app.get('/api/products/:id', (req,res) => {
+app.get('https://step-by-step-guide.herokuapp.com/api/products/:id', (req,res) => {
     res.json(products.filter(product => product.id === parseInt(req.params.id)))
 })
 
