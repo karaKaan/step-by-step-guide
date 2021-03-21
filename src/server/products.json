@@ -46,7 +46,7 @@
                 "direction": "Take the Bowl you most like and add the 250g Cereal."
             },
             {
-                "step": "Milk with Addings ",
+                "step": "Milk with Addings",
                 "imgUrl":"/images/milk-stuff.jpg",
                 "ingredients": ["Milk","Fruits", "Nuts"],
                 "direction": "Add into your Bowl of Cereal your Nuts and Fruits. After adding it pour in the Milk."

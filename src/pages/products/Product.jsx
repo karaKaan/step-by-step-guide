@@ -17,15 +17,12 @@ export default function Products() {
         productID = productID.split("/")
         productID = productID[productID.length - 1]
 
-        const res = await fetch(`https://step-by-step-guide.herokuapp.com/api/products/${productID}`)
+        const res = await fetch(`http://localhost:5000/api/products/${productID}`)
         const productData = await res.json()
         
         setProduct(productData[0])
 
         if(window.localStorage.length !== 0){   
-                    console.log({isGuide}); 
-                    console.log({nextCounter}); 
-                    console.log(JSON.parse(window.localStorage.getItem("isGuide")))
                     setIsGuide(JSON.parse(window.localStorage.getItem("isGuide")))
                     setNextCounter(JSON.parse(window.localStorage.getItem("nextCounter")))
                 } 
